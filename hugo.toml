@@ -1,0 +1,4 @@
+baseURL = 'https://kirito-wisman.github.io'
+languageCode = 'en-us'
+title = "Kirito's Blog"
+theme = 'ananke'
